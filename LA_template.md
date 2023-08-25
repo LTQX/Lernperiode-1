@@ -3,22 +3,20 @@
 ✍️  **Ylli Kolgeci**
 ✍️ *25.08.2023 - 29.09.2023*
 
-## Visual Studio Code lernen
+## Module lernen und Hausaufgaben erledigen
 
-✍️ Ich möchte besser im programmieren werden, momentan bin ich garnicht gut (Totaller Anfänger). Mit der Website Python-lernen.de möchte ich step-by-step Python lernen. Ich möchte es lernen, weil ich es dann höchst wahrscheinlich später im Leben brauchen werde. Python hat mich immer inspiriert und deswegen werde ich dieses Thema genauer anschauen.
+✍️ Ich möchte an den Modulen M319 und M431 weiterarbeiten. Ich habe immer Mühe die Tagesziele zu erreichen, also 4 Module pro Halbtag zu lösen. Ich möchte die Zeit im Lernatalier ausnutzen und die Module fertig machen, sodass ich kein Stress zuhause habe. Wenn ich keine Module erledigen muss, lerne ich für die Schule in der alten Kanti aarau oder erledige die Hausaufgaben von der alten Kanti Aarau. Somit habe ich immer etwas zutun und die Zeit im Lernatalier wird nicht verschwendet.
 
 ## Arbeitspakete für 25.08.2023
 
-✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
+✍️ Beim Modul M4319 Hausaufgaben erledigen PAP Design für die Uhr erledigen , bei Visual Studio anfangen und beim Modul M431 bis Modul 06 fertig arbeiten
 
-- [ ] Ein Programm, welches den Benutzer nach seinem Namen fragt, und diesen wieder ausgibt.
 
-| Vorbereitung             | Eingabe | Erwartete Ausgabe |
-| ------------------------ | ------- | ----------------- |
-| Programm in VS gestartet | `Nico`  | `Hallo Nico`      |
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
+M319: PAP Design für die Uhr erledigen --> Erledigt
+Visual Studio Vorname Nachname Aufgabe --> Erledigt
+M431: Modul 04 --> Erledigt
+M431: Modul 05 --> Fast erledigt
 
-✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
+
+
