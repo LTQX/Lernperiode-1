@@ -1,6 +1,7 @@
 # Grob-Planung
 
 ✍️  **Ylli Kolgeci**
+
 ✍️ *25.08.2023 - 29.09.2023*
 
 ## Module lernen und Hausaufgaben erledigen
@@ -11,12 +12,10 @@
 
 ✍️ Beim Modul M4319 Hausaufgaben erledigen PAP Design für die Uhr erledigen , bei Visual Studio anfangen und beim Modul M431 bis Modul 06 fertig arbeiten
 
-
-
-M319: PAP Design für die Uhr erledigen --> Erledigt
-Visual Studio Vorname Nachname Aufgabe --> Erledigt
-M431: Modul 04 --> Erledigt
-M431: Modul 05 --> Fast erledigt
+- [x] M319: PAP Design für die Uhr erledigen --> Erledigt
+- [x] Visual Studio Vorname Nachname Aufgabe --> Erledigt
+- [x] M431: Modul 04 --> Erledigt
+- [ ] M431: Modul 05 --> Fast erledigt
 
 
 
