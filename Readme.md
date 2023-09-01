@@ -6,7 +6,7 @@
 
 ## Module lernen und Hausaufgaben erledigen
 
-✍️ Ich möchte an den Modulen M319 und M431 weiterarbeiten. Ich habe immer Mühe die Tagesziele zu erreichen, also 4 Module pro Halbtag zu lösen. Ich möchte die Zeit im Lernatalier ausnutzen und die Module fertig machen, sodass ich kein Stress zuhause habe. Wenn ich keine Module erledigen muss, lerne ich für die Schule in der alten Kanti aarau oder erledige die Hausaufgaben von der alten Kanti Aarau. Somit habe ich immer etwas zutun und die Zeit im Lernatalier wird nicht verschwendet.
+✍️ Ich möchte an den Modulen M319 und M431 weiterarbeiten. Ich habe immer Mühe die Tagesziele zu erreichen, also 4 Module pro Halbtag zu lösen. Ich möchte die Zeit im Lernatalier ausnutzen und die Module fertig machen, sodass ich kein Stress zuhause habe. Wenn ich keine Aufträge erledigen muss, lerne ich für die Schule in der alten Kanti aarau oder erledige die Hausaufgaben von der alten Kanti Aarau. Somit habe ich immer etwas zutun und die Zeit im Lernatalier wird nicht verschwendet.
 
 ## Arbeitspakete für 25.08.2023
 
@@ -17,6 +17,23 @@
 - [x] Visual Studio Vorname Nachname Aufgabe --> Erledigt
 - [x] M431: Modul 04 --> Erledigt
 - [ ] M431: Modul 05 --> Fast erledigt
+
+## Arbeitspakete für 01.08.2023
+-
+-
+-
+-
+Heute habe ich an einem Programm gearbeitet. Ich habe es in Visual Studio gestartet und habe dafür C# benutzt. Ich habe heute sehr viele neue Wörter gelernt und befehle. Ich habe letzte Woche für heute keine Aufgaben/Arbeiten gemacht, weil ich es letzte Woche nicht wusste, das es auf heute machen muss/soll. In Plan war das ich heute an den Modulen arbeite, aber habe meine Meinung geändert,weil es nicht nötig war.
+
+## Arbeitspakete für 08.09.2023
+
+Wenn nötig an Modul 319 & Modul 431 arbeiten.
+Wenn nicht nötig, dann Programm "Temperature Converter" abschliessen und verbessern.
+
+- [] M319
+- [] M431
+- [] Temperature Converter in C# verbessern.
+- [] Temperature Converter in C# abschliessen.
 
 
 
