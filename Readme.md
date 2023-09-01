@@ -12,7 +12,8 @@
 
 ✍️ Beim Modul M4319 Hausaufgaben erledigen PAP Design für die Uhr erledigen , bei Visual Studio anfangen und beim Modul M431 bis Modul 06 fertig arbeiten
 
-- [x] M319: PAP Design für die Uhr erledigen --> Erledigt
+
+- [x] M319 PAP Design für die Uhr erledigen --> Erledigt
 - [x] Visual Studio Vorname Nachname Aufgabe --> Erledigt
 - [x] M431: Modul 04 --> Erledigt
 - [ ] M431: Modul 05 --> Fast erledigt
