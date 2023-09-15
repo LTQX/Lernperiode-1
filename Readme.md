@@ -25,15 +25,29 @@
 -
 Heute habe ich an einem Programm gearbeitet. Ich habe es in Visual Studio gestartet und habe dafür C# benutzt. Ich habe heute sehr viele neue Wörter gelernt und befehle. Ich habe letzte Woche für heute keine Aufgaben/Arbeiten gemacht, weil ich es letzte Woche nicht wusste, das es auf heute machen muss/soll. In Plan war das ich heute an den Modulen arbeite, aber habe meine Meinung geändert,weil es nicht nötig war.
 
-## Arbeitspakete für 08.09.2023
+## Arbeitspakete für 15.09.2023
 
 Wenn nötig an Modul 319 & Modul 431 arbeiten.
 Wenn nicht nötig, dann Programm "Temperature Converter" abschliessen und verbessern.
 
-- [] M319
-- [] M431
-- [] Temperature Converter in C# verbessern.
-- [] Temperature Converter in C# abschliessen.
+- [x] M319
+- [x] M431
+- [x] Temperature Converter in C# verbessern.
+- [x] Temperature Converter in C# abschliessen.
+      
+      Heute habe ich an den Modulen gearbeitet und habe mein Programm "Temperature Converter" abgeschlossen. Ich habe die Nötigen Aufträgen wie erwähnt abgeschlossen, die ich im
+      Unterricht eigentlich abschliessen musste, abgeschlossen. Ich habe die ganze Zeit gebraucht um die Aufträgen und mein Programm zu beenden gebraucht. Meine Zeit habe ich
+      efiizient ausgenutzt.(51 Wörter)
+
+## Arbeitspakete für 25.09.2023
+
+Wenn nötig an Modul 319 & Modul 431 arbeiten.
+Wenn ich noch Zeit habe, einen Programm erstellen, also ein kleines Spiel das ich auf Youtube finde. Ich denke eher ein Snake spiel, aber mal schauen ob das bei dem Konsolen Programm auf C# gehen wird, ich denke aber das es gehen sollte.(52 Wörter)
+
+- [ ] M319
+- [ ] M431
+- [ ] Spiel Idee für C# finden
+- [ ] Programm abschliessen
 
 
 
