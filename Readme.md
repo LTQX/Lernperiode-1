@@ -44,10 +44,15 @@ Wenn nicht nötig, dann Programm "Temperature Converter" abschliessen und verbes
 Wenn nötig an Modul 319 & Modul 431 arbeiten.
 Wenn ich noch Zeit habe, einen Programm erstellen, also ein kleines Spiel, ein Snake-Game. Ich denke das es funktionieren wird, aber mal schauen ob das bei dem Konsolen Programm auf C# gehen wird, ich denke aber das es gehen sollte.(52 Wörter)
 
-- [ ] M319
-- [ ] M431
-- [ ] Snake-Game auf C#
+- [x] M319
+- [x] M431
+- [x] Snake-Game auf C#
 - [ ] Programm abschliessen
 
+
+
+## Zusamenfassung der 1. Lernperiode:
+
+aojhsdaskdfchgweIÖRUEWHcvwosjdCGHBswökjdchwOÄIDCZHW      SDÖKJCB      WEKJCHWÖIDCHswiöuhsöiovugd gdfaivöhjsbVÖisjdchb siduvögsDIJCGHsbvckjsCB DSKHJB Söd gsDÄC UGsdvöjsDCGVSDÉKJVCsgsjkdövcgsxdGVGSdövgsdgvjksgJKDVCBHsdbxvb bsd bsd öd lhajs hshjvchshlDCVHBSDBLHC BDC BD D< S, HsvchbshbVCBLHSDHLVGSDAFVBLHDALBHVAGSDÖFVBLHAHDSFVLYDSJVYDLJV BDFBJVHJBFDAHSVBJDBVJHHBVF
 
 
