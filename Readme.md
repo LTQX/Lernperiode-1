@@ -39,20 +39,22 @@ Wenn nicht nötig, dann Programm "Temperature Converter" abschliessen und verbes
       Unterricht eigentlich abschliessen musste, abgeschlossen. Ich habe die ganze Zeit gebraucht um die Aufträgen und mein Programm zu beenden gebraucht. Meine Zeit habe ich
       efiizient ausgenutzt.(51 Wörter)
 
-## Arbeitspakete für 25.09.2023
+## Arbeitspakete für 22.09.2023
 
 Wenn nötig an Modul 319 & Modul 431 arbeiten.
 Wenn ich noch Zeit habe, einen Programm erstellen, also ein kleines Spiel, ein Snake-Game. Ich denke das es funktionieren wird, aber mal schauen ob das bei dem Konsolen Programm auf C# gehen wird, ich denke aber das es gehen sollte.(52 Wörter)
 
 - [x] M319
 - [x] M431
-- [x] Snake-Game auf C#
+- [x] Snake-Game auf C# anfangen
 - [ ] Programm abschliessen
 
 
 
-## Zusamenfassung der 1. Lernperiode:
+## Reflexion der 1. Lernperiode:
 
-aojhsdaskdfchgweIÖRUEWHcvwosjdCGHBswökjdchwOÄIDCZHW      SDÖKJCB      WEKJCHWÖIDCHswiöuhsöiovugd gdfaivöhjsbVÖisjdchb siduvögsDIJCGHsbvckjsCB DSKHJB Söd gsDÄC UGsdvöjsDCGVSDÉKJVCsgsjkdövcgsxdGVGSdövgsdgvjksgJKDVCBHsdbxvb bsd bsd öd lhajs hshjvchshlDCVHBSDBLHC BDC BD D< S, HsvchbshbVCBLHSDHLVGSDAFVBLHDALBHVAGSDÖFVBLHAHDSFVLYDSJVYDLJV BDFBJVHJBFDAHSVBJDBVJHHBVF
+Angefangen habe ich mit den Modulen 319 und 431. Ich habe dann mit Visual Studio begonnen und meine ersten Programme programmiert. Ich habe dann jede Lektion an den Modulen 319 und 431 gearbeitet. Mein erstes grosses C# Programm war ein Temperatur Konvertor, der Celsius in Fahrenheit- oder Fahrenheit in Celsius konvertiert. Bei unklarheiten habe ich Herr Colic gefragt, der mir immer tolle Erklärungen gemacht hat. An den Modulen kam ich immer mehr voran und im programmieren wurde ich immer besser. Heute (22.09.2023) habe ich an einem Snake-Game programmiert. Also ich habe heute damit angefangen, es ist ein grosses Programm für mich, aber ich werde an den Ferien mich über das informieren und dann nach den Ferien es umsetzten.
 
+## VBV
 
+Ich kann mich verbessern, wenn ich mich mehr anstrenge und konzentrierter Arbeite. Ich arbeite manchnmal nicht so konzentriert, weil es Freitag Nachmittag ist und das Wochenende vor der Tür ist. 
