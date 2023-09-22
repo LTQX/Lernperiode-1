@@ -42,11 +42,11 @@ Wenn nicht nötig, dann Programm "Temperature Converter" abschliessen und verbes
 ## Arbeitspakete für 25.09.2023
 
 Wenn nötig an Modul 319 & Modul 431 arbeiten.
-Wenn ich noch Zeit habe, einen Programm erstellen, also ein kleines Spiel das ich auf Youtube finde. Ich denke eher ein Snake spiel, aber mal schauen ob das bei dem Konsolen Programm auf C# gehen wird, ich denke aber das es gehen sollte.(52 Wörter)
+Wenn ich noch Zeit habe, einen Programm erstellen, also ein kleines Spiel, ein Snake-Game. Ich denke das es funktionieren wird, aber mal schauen ob das bei dem Konsolen Programm auf C# gehen wird, ich denke aber das es gehen sollte.(52 Wörter)
 
 - [ ] M319
 - [ ] M431
-- [ ] Spiel Idee für C# finden
+- [ ] Snake-Game auf C#
 - [ ] Programm abschliessen
 
 
