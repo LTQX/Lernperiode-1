@@ -53,8 +53,8 @@ Wenn ich noch Zeit habe, einen Programm erstellen, also ein kleines Spiel, ein S
 
 ## Reflexion der 1. Lernperiode:
 
-Angefangen habe ich mit den Modulen 319 und 431. Ich habe dann mit Visual Studio begonnen und meine ersten Programme programmiert. Ich habe dann jede Lektion an den Modulen 319 und 431 gearbeitet. Mein erstes grosses C# Programm war ein Temperatur Konvertor, der Celsius in Fahrenheit- oder Fahrenheit in Celsius konvertiert. Bei unklarheiten habe ich Herr Colic gefragt, der mir immer tolle Erklärungen gemacht hat. An den Modulen kam ich immer mehr voran und im programmieren wurde ich immer besser. Heute (22.09.2023) habe ich an einem Snake-Game programmiert. Also ich habe heute damit angefangen, es ist ein grosses Programm für mich, aber ich werde an den Ferien mich über das informieren und dann nach den Ferien es umsetzten.
+Angefangen habe ich mit den Modulen 319 und 431. Ich habe dann mit Visual Studio begonnen und meine ersten Programme programmiert. Ich habe dann jede Lektion an den Modulen 319 und 431 gearbeitet. Mein erstes grosses C# Programm war ein Temperatur Konvertor, der Celsius in Fahrenheit- oder Fahrenheit in Celsius konvertiert. Bei unklarheiten habe ich Herr Colic gefragt, der mir immer tolle Erklärungen gemacht hat. An den Modulen kam ich immer mehr voran und im programmieren wurde ich immer besser. Heute (22.09.2023) habe ich an einem Snake-Game programmiert. Also ich habe heute damit angefangen, es ist ein grosses Programm für mich, aber ich werde an den Ferien mich über das informieren und dann nach den Ferien es umsetzten. (118 Wörter)
 
 ## VBV
 
-Ich kann mich verbessern, wenn ich mich mehr anstrenge und konzentrierter Arbeite. Ich arbeite manchnmal nicht so konzentriert, weil es Freitag Nachmittag ist und das Wochenende vor der Tür ist. 
+Ich kann mich verbessern, wenn ich mich mehr anstrenge und konzentrierter Arbeite. Ich arbeite manchnmal nicht so konzentriert, weil es Freitag Nachmittag ist und das Wochenende vor der Tür ist. (30 Wörter)
