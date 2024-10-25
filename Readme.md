@@ -28,7 +28,7 @@ Heute habe ich an einem Programm gearbeitet. Ich habe es in Visual Studio gestar
 ## Arbeitspakete für 15.09.2023
 
 Wenn nötig an Modul 319 & Modul 431 arbeiten.
-Wenn nicht nötig, dann Programm "Temperature Converter" abschliessen und verbessern.
+Wenn nicht nötig, dann Programm "Temperature Converter" verbessern und abschliessen.
 
 - [x] M319
 - [x] M431
